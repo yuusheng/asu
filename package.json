@@ -1,14 +1,16 @@
 {
-  "name": "@example/basics",
+  "name": "asu",
   "type": "module",
   "version": "0.0.1",
   "private": true,
+  "author": "[author]",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "lint": "eslint ."
   },
   "dependencies": {
     "@astrojs/solid-js": "^2.0.2",
