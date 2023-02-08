@@ -1,4 +1,4 @@
-# astro solid unocss stater
+# astro solid unocss starter
 
 ## Features
 - astro
