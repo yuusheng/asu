@@ -1,9 +1,9 @@
-# astro solid unocss starter
+# Astro Solid.js UnoCSS starter
 
 ## Features
-- astro
-- solidjs
-- unocss
+- Astro
+- Solid.js
+- UnoCSS
 
 ## Usage
 
